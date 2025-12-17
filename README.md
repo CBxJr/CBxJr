@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Akash CB 👋
+### MCA Aspirant (ASIET 2026) | CICSA Certified | Cybersecurity Enthusiast
 
-<!--
-**CBxJr/CBxJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced in IT Infrastructure and Security Operations, currently bridging the gap between System Security and Advanced Software Development.
 
-Here are some ideas to get you started:
+- 🛡 *Certifications:* CICSA (Certified IT Infrastructure and Cyber SOC Analyst)
+- 🎓 *Education:* BCA Graduate -> Incoming MCA Student at Adi Shankara (ASIET)
+- 💻 *Focus:* Secure Coding, Data Structures, and SOC Automation
+- 🔭 *Current Project:* Building a library of Python-based security tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- *Languages:* Python, C, Bash
+- *Security:* SOC Operations, Network Security, Infrastructure Audit
+- *Development:* Data Structures, SDLC (Agile)
+
+### Let's Connect
+[LinkedIn](https://www.linkedin.com/in/akash-cb-ab3296300) | [Email](acb2k01@gmail.com)
